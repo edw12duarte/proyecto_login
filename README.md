@@ -1,4 +1,4 @@
-EN este proyecto se hace uso de:
+En este proyecto se hace uso de:
 
 login,
 sesiones,
